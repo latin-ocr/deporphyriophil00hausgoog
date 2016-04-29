@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deporphyriophil00hausgoog_0003.png"; bbox 0 0 873 1356; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 89 54 164 198">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 94 54 145 103">
+     <span class='ocr_line' id='line_1_1' title="bbox 94 54 145 75; baseline -0.039 0"><span class='ocrx_word' id='word_1_1' title='bbox 94 54 145 75; x_wconf 59' lang='lat' dir='ltr'>‘BR</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 105 84 137 103; baseline -0.031 0"><span class='ocrx_word' id='word_1_2' title='bbox 105 84 137 103; x_wconf 62' lang='lat' dir='ltr'>uz</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 89 115 164 198">
+     <span class='ocr_line' id='line_1_3' title="bbox 89 115 164 138; baseline 0 -4"><span class='ocrx_word' id='word_1_3' title='bbox 89 115 164 138; x_wconf 58' lang='lat' dir='ltr'>,mnu</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 103 146 148 168; baseline -0.067 0"><span class='ocrx_word' id='word_1_4' title='bbox 103 146 148 168; x_wconf 53' lang='grc' dir='ltr'>ΑΨ(</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 101 178 139 198; baseline 0.026 -1"><span class='ocrx_word' id='word_1_5' title='bbox 101 178 139 198; x_wconf 54' lang='lat'>»44</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 280 366 660 856">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 280 366 660 856">
+     <span class='ocr_line' id='line_1_6' title="bbox 280 366 660 856; baseline 0 500"><span class='ocrx_word' id='word_1_6' title='bbox 280 366 660 856; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
